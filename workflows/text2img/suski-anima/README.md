@@ -1,4 +1,4 @@
-# anima
+# suski-anima
 
 类别：text2img
 

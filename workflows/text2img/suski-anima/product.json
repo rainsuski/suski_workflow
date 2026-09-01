@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "id": "text2img-anima-1hao7fi",
-  "name": "anima",
+  "name": "suski-anima",
   "category": "text2img",
   "summary": "",
   "description": "",
@@ -106,8 +106,8 @@
       ],
       "inputs": [],
       "models": [],
-      "repository_path": "workflows/text2img/anima/versions/v0.1.0"
+      "repository_path": "workflows/text2img/suski-anima/versions/v0.1.0"
     }
   ],
-  "repository_path": "workflows/text2img/anima"
+  "repository_path": "workflows/text2img/suski-anima"
 }
