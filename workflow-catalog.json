@@ -13,7 +13,7 @@
       "summary": "",
       "description": "",
       "tags": [],
-      "archived": true,
+      "archived": false,
       "cover": {
         "url": "https://github.com/rainsuski/suski_workflow/releases/download/text2img-anima-1hao7fi-v0.1.0/text2img-anima-1hao7fi-v0.1.0-cover.png",
         "sha256": "5ed5ba13eb90723367c580c1a9546963e2a491b147e46029c667063f83fcd89f"
