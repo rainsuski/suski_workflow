@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "workflow_id": "text2img-suski-anima-1bbkx88",
+  "name": "suski_anima",
+  "version": "0.2.0",
+  "filename_separator": "-",
+  "custom_nodes": [
+    {
+      "registry_id": null,
+      "name": "ANIMA_BOOSTER",
+      "version": null,
+      "commit": "0cb1f45f4c6b8a726150faf9c08988bc10baf36c",
+      "required": true,
+      "manual": true,
+      "source_url": "https://github.com/BlackSnowSkill/ANIMA_BOOSTER"
+    },
+    {
+      "registry_id": null,
+      "name": "ComfyUI-Aaalice-Nodes",
+      "version": null,
+      "commit": "8a17c74accdda3e1c71b09a78145dd05d930daea",
+      "required": true,
+      "manual": true,
+      "source_url": "https://github.com/Aaalice233/ComfyUI-Aaalice-Nodes"
+    },
+    {
+      "registry_id": null,
+      "name": "ComfyUI-KJNodes",
+      "version": null,
+      "commit": "3f20054214fec9f9234fd3841ae6f1e4287948f6",
+      "required": true,
+      "manual": true,
+      "source_url": "https://github.com/kijai/ComfyUI-KJNodes"
+    },
+    {
+      "registry_id": null,
+      "name": "ComfyUI-Lora-Manager",
+      "version": null,
+      "commit": "41e9883daa4cd8c63e92097e8856a11d93923325",
+      "required": true,
+      "manual": true,
+      "source_url": "https://github.com/willmiao/ComfyUI-Lora-Manager"
+    },
+    {
+      "registry_id": null,
+      "name": "ComfyUI-NVIDIA-RTX-VSR-Pro",
+      "version": null,
+      "commit": "49733df7a02446cf1c1fac4af6f6181682522303",
+      "required": true,
+      "manual": true,
+      "source_url": "https://github.com/whmc76/ComfyUI-NVIDIA-RTX-VSR-Pro"
+    },
+    {
+      "registry_id": null,
+      "name": "comfyui-qwen35-anima",
+      "version": null,
+      "commit": "47f5f9541f3454b2e74a5f9226e53dfd7a6b2d78",
+      "required": true,
+      "manual": true,
+      "source_url": "https://github.com/GumGum10/comfyui-qwen35-anima"
+    },
+    {
+      "registry_id": null,
+      "name": "KreaSeedVarianceEnhancer",
+      "version": null,
+      "commit": "1515d23a5b399a44ccd97482e1105a43937268ae",
+      "required": true,
+      "manual": true,
+      "source_url": "https://github.com/harukimix/KreaSeedVarianceEnhancer"
+    },
+    {
+      "registry_id": null,
+      "name": "rgthree-comfy",
+      "version": null,
+      "commit": "13b4399c00b5ef5a97b1b6800fc1185874740f5d",
+      "required": true,
+      "manual": true,
+      "source_url": "https://github.com/rgthree/rgthree-comfy"
+    },
+    {
+      "registry_id": null,
+      "name": "SesquiLSR",
+      "version": null,
+      "commit": "befae004248c403f38b76b9f65fd43b901ea3eaa",
+      "required": true,
+      "manual": true,
+      "source_url": "https://github.com/LoganBooker/SesquiLSR"
+    }
+  ],
+  "models": [],
+  "inputs": []
+}
