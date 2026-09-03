@@ -1,4 +1,0 @@
-- 补充了Aaalice侧边栏的快速配置
-- 集成了TeaCache、SageAttention、torch.compile三种推理加速方案
-- 修改了布局
-- 修复了lora触发词不生效的问题
