@@ -1,0 +1,2 @@
+- 修复了ComfyUI-Aaalice-Nodes中的保存节点与血统探针注入冲突的问题
+- 更新了ComfyUI-Suski-Asset-Triage，增加同步导出ComfyUI-LoRA-Manager配方的功能
