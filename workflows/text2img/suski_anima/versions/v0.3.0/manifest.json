@@ -90,7 +90,7 @@
       "registry_id": null,
       "name": "ComfyUI-Suski-Prompt-Vault",
       "version": null,
-      "commit": "4d4c72c393be22cf8ad7f4c585b6cea8d2db0169",
+      "commit": "7faa23c34d81736217197772ec7bd5bf854e7570",
       "required": true,
       "manual": true,
       "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Prompt-Vault"
@@ -99,7 +99,7 @@
       "registry_id": null,
       "name": "ComfyUI-Suski-Toolkit",
       "version": null,
-      "commit": "deb46e1856e7955f724354ee4eb842fd1f3ff602",
+      "commit": "70645585de31645ee70659a22af8cf19cec05ab8",
       "required": true,
       "manual": true,
       "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Toolkit"
