@@ -6,7 +6,6 @@
 
 | 版本 | 更新日期 | 工作流文件 | 完整安装包 |
 | --- | --- | --- | --- |
-| v0.3.0 | 2026-10-12 | [workflow.json](versions/v0.3.0/workflow.json) | [ZIP](https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-anima-1bbkx88-v0.3.0/suski_anima-v0.3.0.zip) |
 | v0.2.4 | 2026-10-12 | [workflow.json](versions/v0.2.4/workflow.json) | [ZIP](https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-anima-1bbkx88-v0.2.4/suski_anima-v0.2.4.zip) |
 | v0.2.3 | 2026-09-05 | [workflow.json](versions/v0.2.3/workflow.json) | [ZIP](https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-anima-1bbkx88-v0.2.3/suski_anima-v0.2.3.zip) |
 | v0.2.2 | 2026-09-05 | [workflow.json](versions/v0.2.2/workflow.json) | [ZIP](https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-anima-1bbkx88-v0.2.2/suski_anima-v0.2.2.zip) |
