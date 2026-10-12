@@ -81,7 +81,7 @@
       "registry_id": null,
       "name": "ComfyUI-Suski-Dataflow-Probe",
       "version": null,
-      "commit": "e43ad7e819775e4942d9c2aeff7374ddef2ba852",
+      "commit": "bc894c2ce98940c187da75aa72bfa3d708f5bbb5",
       "required": true,
       "manual": true,
       "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Dataflow-Probe"
@@ -90,7 +90,7 @@
       "registry_id": null,
       "name": "ComfyUI-Suski-Prompt-Vault",
       "version": null,
-      "commit": "66f10829e5baf7d158eae6575a2abd8dbe624c8c",
+      "commit": "19c372d192f9848dc7759c4e427e77d3a5bb1a3a",
       "required": true,
       "manual": true,
       "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Prompt-Vault"
@@ -99,7 +99,7 @@
       "registry_id": null,
       "name": "ComfyUI-Suski-Toolkit",
       "version": null,
-      "commit": "9e732e2eb7c0c8d889feab7eb16ed9308d2c2745",
+      "commit": "deb46e1856e7955f724354ee4eb842fd1f3ff602",
       "required": true,
       "manual": true,
       "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Toolkit"
