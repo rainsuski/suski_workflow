@@ -8,8 +8,8 @@
   "tags": [],
   "archived": false,
   "cover": {
-    "url": "https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-anima-1bbkx88-v0.3.0/text2img-suski-anima-1bbkx88-v0.3.0-cover.jpg",
-    "sha256": "078284b1897b95f7b495c2fc8ce8df0b0d307f737b0316f12d884ec7e5e5d2b3"
+    "url": "https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-anima-1bbkx88-v0.3.1/text2img-suski-anima-1bbkx88-v0.3.1-cover.png",
+    "sha256": "d69a41db080712b10245e00d75bda68467523260eabcb5482d74d53f223b9d70"
   },
   "versions": [
     {
@@ -931,6 +931,175 @@
       ],
       "models": [],
       "repository_path": "workflows/text2img/suski_anima/versions/v0.3.0"
+    },
+    {
+      "version": "0.3.1",
+      "published_at": "2026-10-15T10:59:17.630000Z",
+      "release_tag": "text2img-suski-anima-1bbkx88-v0.3.1",
+      "changelog": "- 插件更新",
+      "comfyui": {
+        "minimum": "0.36.0",
+        "maximum": "0.36.0"
+      },
+      "package": {
+        "url": "https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-anima-1bbkx88-v0.3.1/suski_anima-v0.3.1.zip",
+        "size": 3088433,
+        "sha256": "e5cfd657abc494d37adfe6432450a4fa9d25d47c3786b953471cc637351621e5"
+      },
+      "preview": {
+        "url": "https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-anima-1bbkx88-v0.3.1/text2img-suski-anima-1bbkx88-v0.3.1-cover.png",
+        "sha256": "d69a41db080712b10245e00d75bda68467523260eabcb5482d74d53f223b9d70"
+      },
+      "custom_nodes": [
+        {
+          "registry_id": null,
+          "name": "ANIMA_BOOSTER",
+          "version": null,
+          "commit": "0cb1f45f4c6b8a726150faf9c08988bc10baf36c",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/BlackSnowSkill/ANIMA_BOOSTER"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-Aaalice-Nodes",
+          "version": null,
+          "commit": "2395128e6f02d60ccc4c2b514201533cd8fd3f92",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/Aaalice233/ComfyUI-Aaalice-Nodes"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-Anima-2.9B-loraPatch",
+          "version": null,
+          "commit": "045f240210b52037e6dd3d8328d776463fe54b96",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/sparklingcoffee777/ComfyUI-Anima-2.9B-loraPatch"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-KJNodes",
+          "version": null,
+          "commit": "d3cfe21625e5170126ce06fbfcfe1d88108688c3",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/kijai/ComfyUI-KJNodes"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-Lora-Manager",
+          "version": null,
+          "commit": "d4b82d98b2ac25f562fdd7f705a1289f4f40929d",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/willmiao/ComfyUI-Lora-Manager"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-NVIDIA-RTX-VSR-Pro",
+          "version": null,
+          "commit": "49733df7a02446cf1c1fac4af6f6181682522303",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/whmc76/ComfyUI-NVIDIA-RTX-VSR-Pro"
+        },
+        {
+          "registry_id": null,
+          "name": "comfyui-qwen35-anima",
+          "version": null,
+          "commit": "47f5f9541f3454b2e74a5f9226e53dfd7a6b2d78",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/GumGum10/comfyui-qwen35-anima"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-RMBG",
+          "version": null,
+          "commit": "a1ca256ce5ef3d2d990935415bad76c4269aa80d",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/1038lab/ComfyUI-RMBG"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-Suski-Asset-Triage",
+          "version": null,
+          "commit": "1907662ecb6b8235f4e66e340f537e874a804b5d",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Asset-Triage"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-Suski-Dataflow-Probe",
+          "version": null,
+          "commit": "bc894c2ce98940c187da75aa72bfa3d708f5bbb5",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Dataflow-Probe"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-Suski-Prompt-Vault",
+          "version": null,
+          "commit": "f6cdb3c42b0a3cf183dfa590acfa39510606ff7e",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Prompt-Vault"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-Suski-Toolkit",
+          "version": null,
+          "commit": "70645585de31645ee70659a22af8cf19cec05ab8",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Toolkit"
+        },
+        {
+          "registry_id": null,
+          "name": "KreaSeedVarianceEnhancer",
+          "version": null,
+          "commit": "1515d23a5b399a44ccd97482e1105a43937268ae",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/harukimix/KreaSeedVarianceEnhancer"
+        },
+        {
+          "registry_id": null,
+          "name": "rgthree-comfy",
+          "version": null,
+          "commit": "2c5342a8cb0eaecaabf61435a5f37dd594c510ba",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/rgthree/rgthree-comfy"
+        },
+        {
+          "registry_id": null,
+          "name": "SesquiLSR",
+          "version": null,
+          "commit": "befae004248c403f38b76b9f65fd43b901ea3eaa",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/LoganBooker/SesquiLSR"
+        }
+      ],
+      "inputs": [
+        {
+          "source": "1066459646523154.png",
+          "archive": "inputs/3624c58a3e55-1066459646523154.png",
+          "size": 1833987,
+          "sha256": "3624c58a3e558ff9aceb674415a47cc6f7ac1b51f37b601a8f5d7114719744c6",
+          "node_ids": [
+            "1761"
+          ]
+        }
+      ],
+      "models": [],
+      "repository_path": "workflows/text2img/suski_anima/versions/v0.3.1"
     }
   ],
   "repository_path": "workflows/text2img/suski_anima"
