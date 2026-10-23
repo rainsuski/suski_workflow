@@ -1,0 +1,1 @@
+- 添加支持ComfyUI-suski-PocketNAI的前端槽位（可选）

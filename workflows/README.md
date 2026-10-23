@@ -4,4 +4,4 @@
 
 | 类别 | 工作流 | 最新版本 |
 | --- | --- | --- |
-| text2img | [suski_anima](text2img/suski_anima/) | [v0.3.1](text2img/suski_anima/versions/v0.3.1/workflow.json) |
+| text2img | [suski_anima](text2img/suski_anima/) | [v0.3.2](text2img/suski_anima/versions/v0.3.2/workflow.json) |
