@@ -1112,8 +1112,8 @@
       },
       "package": {
         "url": "https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-anima-1bbkx88-v0.3.2/suski_anima-v0.3.2.zip",
-        "size": 3096390,
-        "sha256": "6494db5a563ae3b327595aab72e2404a7c4097f398cc0124fc107ddf37811c08"
+        "size": 3096388,
+        "sha256": "246d4ccac1bf490465ea91ea55afb5c4ebc12dbb937d9022c1488f95e9b27c2f"
       },
       "preview": {
         "url": "https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-anima-1bbkx88-v0.3.2/text2img-suski-anima-1bbkx88-v0.3.2-cover.png",
@@ -1205,7 +1205,7 @@
           "registry_id": null,
           "name": "ComfyUI-Suski-Prompt-Vault",
           "version": null,
-          "commit": "c919f440868d608081b75c426117540bdd2bfd03",
+          "commit": "92507406154558e5fa3bf89db99242728be55e1e",
           "required": true,
           "manual": true,
           "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Prompt-Vault"
