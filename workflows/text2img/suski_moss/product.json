@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "id": "text2img-suski-moss-n746vu",
+  "name": "suski_moss",
+  "category": "text2img",
+  "summary": "",
+  "description": "",
+  "tags": [],
+  "archived": false,
+  "cover": {
+    "url": "https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-moss-n746vu-v0.1.0/text2img-suski-moss-n746vu-v0.1.0-cover.png",
+    "sha256": "6069cc3c3c9c556822036a562ed15776a59256aa931a2b1778d8c4c842e11964"
+  },
+  "versions": [
+    {
+      "version": "0.1.0",
+      "published_at": "2026-11-23T15:00:29.571000Z",
+      "release_tag": "text2img-suski-moss-n746vu-v0.1.0",
+      "changelog": "moss & krea2 双采工作流",
+      "comfyui": {
+        "minimum": "0.46.2",
+        "maximum": "0.46.2"
+      },
+      "package": {
+        "url": "https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-moss-n746vu-v0.1.0/suski_moss-v0.1.0.zip",
+        "size": 2116626,
+        "sha256": "fec0717eccb3342ce49af164ae0925cee730db823dd75bdfd48d6d4f86d77581"
+      },
+      "preview": {
+        "url": "https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-moss-n746vu-v0.1.0/text2img-suski-moss-n746vu-v0.1.0-cover.png",
+        "sha256": "6069cc3c3c9c556822036a562ed15776a59256aa931a2b1778d8c4c842e11964"
+      },
+      "custom_nodes": [
+        {
+          "registry_id": null,
+          "name": "ComfyUI-Aaalice-Nodes",
+          "version": null,
+          "commit": "2395128e6f02d60ccc4c2b514201533cd8fd3f92",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/Aaalice233/ComfyUI-Aaalice-Nodes"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-KJNodes",
+          "version": null,
+          "commit": "d3cfe21625e5170126ce06fbfcfe1d88108688c3",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/kijai/ComfyUI-KJNodes"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-Lora-Manager",
+          "version": null,
+          "commit": "d4b82d98b2ac25f562fdd7f705a1289f4f40929d",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/willmiao/ComfyUI-Lora-Manager"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-NVIDIA-RTX-VSR-Pro",
+          "version": null,
+          "commit": "49733df7a02446cf1c1fac4af6f6181682522303",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/whmc76/ComfyUI-NVIDIA-RTX-VSR-Pro"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-Suski-Asset-Triage",
+          "version": null,
+          "commit": "020f1c698e29b7d87073a936563b126040ce7fcf",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Asset-Triage"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-Suski-Dataflow-Probe",
+          "version": null,
+          "commit": "bc894c2ce98940c187da75aa72bfa3d708f5bbb5",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Dataflow-Probe"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-Suski-Prompt-Vault",
+          "version": null,
+          "commit": "92507406154558e5fa3bf89db99242728be55e1e",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Prompt-Vault"
+        },
+        {
+          "registry_id": null,
+          "name": "ComfyUI-Suski-Toolkit",
+          "version": null,
+          "commit": "70645585de31645ee70659a22af8cf19cec05ab8",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Toolkit"
+        },
+        {
+          "registry_id": null,
+          "name": "rgthree-comfy",
+          "version": null,
+          "commit": "2c5342a8cb0eaecaabf61435a5f37dd594c510ba",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/rgthree/rgthree-comfy"
+        },
+        {
+          "registry_id": null,
+          "name": "SesquiLSR",
+          "version": null,
+          "commit": "befae004248c403f38b76b9f65fd43b901ea3eaa",
+          "required": true,
+          "manual": true,
+          "source_url": "https://github.com/LoganBooker/SesquiLSR"
+        }
+      ],
+      "inputs": [
+        {
+          "source": "200590863586120018 (1).png",
+          "archive": "inputs/32cb81f43850-200590863586120018 (1).png",
+          "size": 3098997,
+          "sha256": "32cb81f438504eb96dc07dfe512c4dff798a7e628e7ab4b13e2594c83a29c65e",
+          "node_ids": [
+            "1761"
+          ]
+        }
+      ],
+      "models": [],
+      "repository_path": "workflows/text2img/suski_moss/versions/v0.1.0"
+    }
+  ],
+  "repository_path": "workflows/text2img/suski_moss"
+}
