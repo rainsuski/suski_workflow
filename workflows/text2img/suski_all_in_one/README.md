@@ -1,6 +1,13 @@
-# suski_moss
+# suski_all_in_one
 
 类别：text2img
+
+支持各种dit模型的双采文生图工作流
+
+已有预设：
+  - anima单采
+  - krea2单采
+  - moss&krea2双采
 
 ## 版本
 
