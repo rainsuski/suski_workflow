@@ -1,4 +1,4 @@
-# suski_all_in_one
+# suski_pudding
 
 类别：text2img
 

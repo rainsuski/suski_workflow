@@ -1273,7 +1273,7 @@
     },
     {
       "id": "text2img-suski-moss-n746vu",
-      "name": "suski_all_in_one",
+      "name": "suski_pudding",
       "category": "text2img",
       "summary": "支持各种dit模型的双采文生图工作流",
       "description": "已有预设：\n  - anima单采\n  - krea2单采\n  - moss&krea2双采",
@@ -1406,10 +1406,10 @@
             }
           ],
           "models": [],
-          "repository_path": "workflows/text2img/suski_all_in_one/versions/v0.1.0"
+          "repository_path": "workflows/text2img/suski_pudding/versions/v0.1.0"
         }
       ],
-      "repository_path": "workflows/text2img/suski_all_in_one"
+      "repository_path": "workflows/text2img/suski_pudding"
     }
   ]
 }
