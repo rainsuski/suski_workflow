@@ -1420,7 +1420,7 @@
           "package": {
             "url": "https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-moss-n746vu-v0.1.1/suski_pudding-v0.1.1.zip",
             "size": 3952189,
-            "sha256": "454c1236ecefc1d07d4f720310cdceb96de6a2fe51bc2e6b1b5d1cdb582df71d"
+            "sha256": "653fd3d1454a33d02f5e03703873faede0f589ec11c76a729b596998cac3157f"
           },
           "preview": {
             "url": "https://github.com/rainsuski/suski_workflow/releases/download/text2img-suski-moss-n746vu-v0.1.1/text2img-suski-moss-n746vu-v0.1.1-cover.png",
@@ -1485,7 +1485,7 @@
               "registry_id": null,
               "name": "ComfyUI-Suski-Prompt-Vault",
               "version": null,
-              "commit": "92507406154558e5fa3bf89db99242728be55e1e",
+              "commit": "71b86ec273e10b4b1ffe863678abc92096a20bb1",
               "required": true,
               "manual": true,
               "source_url": "https://github.com/rainsuski/ComfyUI-Suski-Prompt-Vault"
